@@ -1,0 +1,15 @@
+[
+  { "id": "evt-t1", "title": "Task: Folder structure setup", "date": "2026-06-26", "type": "milestone", "projectId": "proj-001", "description": "Set up project folder structure completed." },
+  { "id": "evt-t2", "title": "Task: Layout & variable designs", "date": "2026-06-26", "type": "milestone", "projectId": "proj-001", "description": "Design dashboard layouts & variables completed." },
+  { "id": "evt-t3", "title": "Task: Charts drawing engine", "date": "2026-06-28", "type": "completion", "projectId": "proj-001", "description": "Implement charts drawing engine completed." },
+  { "id": "evt-t4", "title": "Task: CSV export integration", "date": "2026-06-27", "type": "meeting", "projectId": "proj-001", "description": "Integrate CSV export data parsing progress." },
+  { "id": "evt-t5", "title": "Task: DOM performance review", "date": "2026-06-28", "type": "meeting", "projectId": "proj-001", "description": "Optimize DOM recycling list performance review." },
+  { "id": "evt-t8", "title": "Task: Charts testing QA", "date": "2026-06-28", "type": "milestone", "projectId": "proj-001", "description": "Write comprehensive test cases for charts." },
+
+  { "id": "evt-t9", "title": "Task: City search field setup", "date": "2026-06-23", "type": "milestone", "projectId": "proj-002", "description": "Implement local city search input field completed." },
+  { "id": "evt-t10", "title": "Task: Mobile layout styling", "date": "2026-06-23", "type": "milestone", "projectId": "proj-002", "description": "Create responsive stylesheet for mobile completed." },
+  { "id": "evt-t6", "title": "Task: Weather retrieval engine", "date": "2026-06-24", "type": "completion", "projectId": "proj-002", "description": "Build weather retrieval engine completed." },
+  { "id": "evt-t11", "title": "Task: localStorage integration", "date": "2026-06-24", "type": "meeting", "projectId": "proj-002", "description": "Incorporate localStorage cache layer progress." },
+  { "id": "evt-t7", "title": "Task: Weather animations UI", "date": "2026-06-25", "type": "completion", "projectId": "proj-002", "description": "Design weather card UI with animations completed." },
+  { "id": "evt-t12", "title": "Task: API fallbacks testing", "date": "2026-06-25", "type": "milestone", "projectId": "proj-002", "description": "Verify API failure fallbacks and city list QA." }
+]

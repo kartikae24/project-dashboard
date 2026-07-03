@@ -1,0 +1,13 @@
+[
+  {
+    "id": "tm-001",
+    "name": "Kartikae",
+    "role": "Lead Developer",
+    "initials": "K",
+    "email": "kartik@example.com",
+    "skills": ["HTML5", "CSS3", "JavaScript", "UI Design"],
+    "projectIds": ["proj-001", "proj-002"],
+    "completedTasks": 4,
+    "bio": "Full-stack frontend developer passionate about building clean, performant web applications."
+  }
+]

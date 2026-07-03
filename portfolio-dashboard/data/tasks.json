@@ -1,0 +1,15 @@
+[
+  { "id":"task-001", "projectId":"proj-001", "title":"Set up project folder structure",          "status":"Done",        "priority":"High",   "assigneeId":"tm-001", "dueDate":"2026-06-26", "tags":["setup"] },
+  { "id":"task-002", "projectId":"proj-001", "title":"Design dashboard layouts & variables",      "status":"Done",        "priority":"Medium", "assigneeId":"tm-001", "dueDate":"2026-06-26", "tags":["ui","css"] },
+  { "id":"task-003", "projectId":"proj-001", "title":"Implement charts drawing engine",           "status":"Done",        "priority":"High",   "assigneeId":"tm-001", "dueDate":"2026-06-28", "tags":["charts","js"] },
+  { "id":"task-004", "projectId":"proj-001", "title":"Integrate CSV export data parsing",         "status":"In Progress", "priority":"Medium", "assigneeId":"tm-001", "dueDate":"2026-06-27", "tags":["js","data"] },
+  { "id":"task-005", "projectId":"proj-001", "title":"Optimize DOM recycling list performance",    "status":"Review",      "priority":"High",   "assigneeId":"tm-001", "dueDate":"2026-06-28", "tags":["performance"] },
+  { "id":"task-008", "projectId":"proj-001", "title":"Write comprehensive test cases for charts", "status":"To Do",       "priority":"Low",    "assigneeId":"tm-001", "dueDate":"2026-06-28", "tags":["testing"] },
+
+  { "id":"task-009", "projectId":"proj-002", "title":"Implement local city search input field",   "status":"Done",        "priority":"High",   "assigneeId":"tm-001", "dueDate":"2026-06-23", "tags":["ui","js"] },
+  { "id":"task-010", "projectId":"proj-002", "title":"Create responsive stylesheet for mobile",    "status":"Done",        "priority":"Medium", "assigneeId":"tm-001", "dueDate":"2026-06-23", "tags":["css"] },
+  { "id":"task-006", "projectId":"proj-002", "title":"Build weather retrieval engine",            "status":"Done",        "priority":"High",   "assigneeId":"tm-001", "dueDate":"2026-06-24", "tags":["api"] },
+  { "id":"task-011", "projectId":"proj-002", "title":"Incorporate localStorage cache layer",      "status":"In Progress", "priority":"Low",    "assigneeId":"tm-001", "dueDate":"2026-06-24", "tags":["js","storage"] },
+  { "id":"task-007", "projectId":"proj-002", "title":"Design weather card UI with animations",    "status":"Done",        "priority":"Medium", "assigneeId":"tm-001", "dueDate":"2026-06-25", "tags":["ui","css"] },
+  { "id":"task-012", "projectId":"proj-002", "title":"Verify API failure fallbacks and city list", "status":"To Do",       "priority":"High",   "assigneeId":"tm-001", "dueDate":"2026-06-25", "tags":["testing","api"] }
+]
